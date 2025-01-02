@@ -1,0 +1,87 @@
+
+
+3rd Week of June 2024 (22–28 June)
+Focus: Python Basics
+
+Monday: Install Python and Jupyter Notebook; write a basic "Hello, World!" program.
+Tuesday: Explore data types and variables; write programs for type conversion.
+Wednesday: Learn operators and expressions; implement a calculator program.
+Thursday: Study conditional statements (if, else, elif) and loops (for, while).
+Friday: Practice list and tuple operations; solve problems with indexing and slicing.
+Saturday: Learn about functions and lambda expressions; implement a function for factorial calculation.
+Sunday: Reflect and summarize the week's learning; solve coding problems from Python basics.
+4th Week of June 2024 (29 June–5 July)
+Focus: Data Structures and NumPy
+
+Monday: Study dictionaries and sets; build a simple phonebook program.
+Tuesday: Learn NumPy basics: creating arrays and performing arithmetic operations.
+Wednesday: Explore slicing, indexing, and reshaping arrays in NumPy.
+Thursday: Use NumPy for data loading (CSV files) and perform simple statistics.
+Friday: Real-world task: Analyze weather data using NumPy.
+Saturday: Revise NumPy concepts and practice solving problems.
+Sunday: Weekly quiz and journal reflection.
+July 2024: Data Analysis and Visualization
+Week 1 (6–12 July): Pandas Basics
+Learn DataFrames, Series, and reading data from CSV files.
+Practice data cleaning and handling missing values.
+Week 2 (13–19 July): Advanced Pandas
+Perform grouping, merging, and aggregation.
+Use Pandas for exploratory data analysis (EDA) on sales data.
+Week 3 (20–26 July): Matplotlib
+Study basic plots: line, bar, scatter, and histograms.
+Create visualizations for COVID-19 trends.
+Week 4 (27 July–2 August): Flask Basics
+Build a simple web app using Flask for data visualization.
+August 2024: Machine Learning Basics
+Week 1 (3–9 August): Introduction to ML
+Learn supervised and unsupervised learning concepts.
+Implement linear regression on housing price data.
+Week 2 (10–16 August): Classification Models
+Study logistic regression, decision trees, and Random Forests.
+Build a spam email classifier.
+Week 3 (17–23 August): Unsupervised Learning
+Explore clustering methods (K-means and hierarchical clustering).
+Perform customer segmentation for a retail dataset.
+Week 4 (24–30 August): Model Evaluation
+Learn evaluation metrics: accuracy, precision, recall, and F1-score.
+Practice cross-validation and hyperparameter tuning.
+September 2024: Deep Learning (ANN and CNN)
+Week 1 (31 August–6 September): Neural Networks Basics
+Learn ANN architecture, activation functions, and backpropagation.
+Week 2 (7–13 September): TensorFlow
+Implement a simple ANN using TensorFlow for classification tasks.
+Week 3 (14–20 September): CNN Basics
+Explore convolution, pooling, and CNN architecture.
+Train a CNN for handwritten digit recognition.
+Week 4 (21–27 September): Advanced CNN
+Apply data augmentation and transfer learning with pre-trained models.
+Build an AI-powered face recognition system.
+October 2024: Natural Language Processing (NLP)
+Week 1 (28 September–4 October): Text Processing
+Learn tokenization, stemming, and lemmatization.
+Perform sentiment analysis on product reviews.
+Week 2 (5–11 October): NLP Libraries
+Use NLTK and spaCy for text classification tasks.
+Week 3 (12–18 October): Transformers
+Study transformer models and text generation with GPT.
+Week 4 (19–25 October): Ethical AI
+Discuss ethical considerations and biases in AI applications.
+November 2024: Capstone Project Development
+Week 1 (26 October–1 November): Project Planning
+Define project objectives, data sources, and ML models to use.
+Week 2 (2–8 November): Backend Development
+Build the data preprocessing and model integration pipeline.
+Week 3 (9–15 November): Frontend Integration
+Develop a user interface using Flask for model interaction.
+Week 4 (16–22 November): Testing and Debugging
+Test the project for edge cases and optimize performance.
+December 2024: Final Review and Presentation
+Week 1 (23–29 November): Documentation
+Write a detailed project report covering all aspects of the development.
+Week 2 (30 November–6 December): Presentation Prep
+Prepare slides and practice presenting the project.
+Week 3 (7–13 December): Mock Evaluation
+Conduct mock evaluations and refine the project based on feedback.
+Week 4 (14–20 December): Industry Exposure
+Attend webinars or guest lectures on AI/ML trends.
+January 2025: Certification and Reflection
