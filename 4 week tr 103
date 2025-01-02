@@ -1,0 +1,148 @@
+Week 1: Python Fundamentals
+Day 1:
+
+Introduction to Python
+Python installation and setup
+Writing your first Python program
+Basic syntax, variables, and data types
+Day 2:
+
+Control Structures
+Conditional statements (if, else, elif)
+Loops (for, while)
+Understanding break, continue, and pass
+Day 3:
+
+Functions and Modules
+Defining and calling functions
+Understanding parameters and return values
+Importing and using modules
+Day 4:
+
+Data Structures
+Lists, tuples, dictionaries, and sets
+Iterating over data structures
+Common methods and operations
+Day 5:
+
+File Handling
+Reading from and writing to files
+Working with CSV and JSON files
+Day 6:
+
+Error Handling and Debugging
+Understanding exceptions
+Using try, except, and finally
+Debugging techniques in Python
+Day 7:
+
+Mini Project:
+Create a basic text-based calculator or a to-do list application
+Week 2: Advanced Python Concepts
+Day 1:
+
+Object-Oriented Programming (OOP)
+Classes and objects
+Attributes and methods
+Inheritance, polymorphism, and encapsulation
+Day 2:
+
+Python Libraries
+Overview of popular libraries like NumPy, Pandas, and Matplotlib
+Working with a library of your choice
+Day 3:
+
+Iterators and Generators
+Using iter and next
+Creating and using generators
+Day 4:
+
+Decorators and Context Managers
+Writing and using decorators
+Understanding and creating context managers
+Day 5:
+
+Regular Expressions
+Basics of regex patterns
+Using Python's re module for pattern matching
+Day 6:
+
+Unit Testing
+Writing test cases using unittest or pytest
+Test-driven development basics
+Day 7:
+
+Mini Project:
+Build a data visualization dashboard or a basic API using Flask
+Week 3: Introduction to Django
+Day 1:
+
+Setting Up Django
+Installing Django and setting up a virtual environment
+Understanding Django’s project structure
+Creating your first Django project
+Day 2:
+
+Models and Databases
+Setting up and using SQLite
+Creating models and migrations
+Querying the database with Django ORM
+Day 3:
+
+Views and Templates
+Writing views
+Creating templates with Django Template Language (DTL)
+Linking views and templates
+Day 4:
+
+Forms and User Input
+Creating and processing forms
+Validating user input
+Day 5:
+
+Static Files and Media
+Serving static files (CSS, JS)
+Handling uploaded media files
+Day 6:
+
+Authentication
+Setting up user authentication and registration
+Managing user sessions
+Day 7:
+
+Mini Project:
+Build a blog application with user authentication
+Week 4: Advanced Django Concepts
+Day 1:
+
+Class-Based Views
+Using built-in generic views
+Writing custom class-based views
+Day 2:
+
+Django Admin Customization
+Customizing the admin interface
+Managing permissions and user roles
+Day 3:
+
+Django REST Framework (DRF)
+Setting up DRF
+Building a basic API
+Day 4:
+
+Deployment
+Deploying a Django application to Heroku or another hosting platform
+Configuring settings for production
+Day 5:
+
+Caching and Performance Optimization
+Using Django’s caching framework
+Query optimization techniques
+Day 6:
+
+Testing in Django
+Writing unit and integration tests for Django applications
+Day 7:
+
+Final Project:
+Build a fully functional e-commerce application
